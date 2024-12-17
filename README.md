@@ -1,6 +1,3 @@
-# Flask-Excel-to-AWS-S3-for-Power-BI-Integration
- uploading Excel files, storing them in an AWS S3 bucket, and connecting the data to Power BI.
-
  # Flask Excel to AWS S3 for Power BI Integration
 
 This project is a Flask application that facilitates uploading Excel files to an AWS S3 bucket, enabling integration with Power BI dashboards. It ensures seamless data storage and refresh workflows for Power BI users.
